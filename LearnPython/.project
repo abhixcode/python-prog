@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.python.pydev.pythonNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>Exercise Files</name>
+			<type>2</type>
+			<location>D:/devX/Programming/Python/Lynda.com - Python Essential Training/Exercise Files/Exercise Files</location>
+		</link>
+	</linkedResources>
 </projectDescription>
